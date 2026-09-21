@@ -4,7 +4,7 @@ Test model with correct normalization (same as training).
 
 import torch
 import numpy as np
-from PIL import Image
+from PIL import Image  
 import matplotlib.pyplot as plt
 from pathlib import Path
 import sys
